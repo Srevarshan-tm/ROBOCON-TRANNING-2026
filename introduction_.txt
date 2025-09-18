@@ -1,2 +1,12 @@
-HI
-My Self T.M.Sre Varshan from ECE(CPS) First Year
+Hi, I’m Sre Varshan, an Electronics and Communication Engineering (ECE – Cyber Physical Systems) student.
+I’m passionate about robotics, embedded systems, and programming, and I’m currently training for Robocon 2026.
+
+This repository is my learning and practice space, where I document:
+
+Arduino projects (simulated on Tinkercad)
+
+Robotics prototypes (sensors, actuators, motor drivers)
+
+Code snippets for training and testing
+
+Step-by-step progress in Robocon preparation
